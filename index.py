@@ -219,4 +219,4 @@ else:
 import random
 for i in range(7):
     num = random.randint(1,20)
-print(num)
+    print(num)
