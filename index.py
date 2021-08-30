@@ -215,8 +215,12 @@ elif reta3 > (abs(reta1 - reta2)) and reta3 < (reta1 + reta2):
     print(f"As retas {reta1}, {reta2} e {reta3} podem formar um triangulo")
 else:
     print(f"As retas {reta1}, {reta2} e {reta3} não podem formar um triângulo")
-"""
+
 import random
 for i in range(7):
     num = random.randint(1,20)
     print(num)
+"""
+
+for i in range(10):
+    print(i)
