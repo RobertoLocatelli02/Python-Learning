@@ -1,6 +1,4 @@
-from typing import Sized
 import pygame
-from pygame.constants import MOUSEBUTTONDOWN, MOUSEBUTTONUP
 
 from jogoDaVelha import criarBoard, fazMovimento, getInputValido, printBoard, verificaGanhador, verificaMovimento
 from minimax import movimentoIA
