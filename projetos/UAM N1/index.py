@@ -18,7 +18,7 @@ Sua opção: """))
             printLinhas()
             if op >= 1 and op <= 7:
                 return op
-            print("Insira um valor entre 1 e 6.")
+            print("Insira um valor entre 1 e 7.")
         except ValueError:
             print("Insira um valor numérico inteiro!")
 
